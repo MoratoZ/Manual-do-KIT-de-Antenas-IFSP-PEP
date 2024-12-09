@@ -4,8 +4,8 @@ Este projeto foi desenvolvido por alunos do curso de Bacharelado em Engenharia E
 
 # Antenas_Graficos.py
 
-Esse programa usa o \textit{path} (ou caminho) do arquivo .csv gerado nos ensaios do diagrama de irradiação e plota o diagrama de irradiação no proprio \textit{Python}.
+Esse programa usa o path (ou caminho) do arquivo .csv gerado nos ensaios do diagrama de irradiação e plota o diagrama de irradiação em dB no proprio Python.
 
 # Antenas_Graficos_Linear.py
 
-
+Esse programa usa o path (ou caminho) do arquivo .csv gerado nos ensaios do diagrama de irradiação e plota o diagrama de irradiação em escala linear no proprio Python.
